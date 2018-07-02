@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">VISIBLE_FILES</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Net.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Web.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\packages\AutoFixture.4.4.0\lib\net452\AutoFixture.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/SolBuilderDuo/UseMsbuildSolutionBuilder/@EntryValue">No</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">EF2B8F6621121247BB29B7D076FDAEC5</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=3162452649E0564EB2847C5A23F83542/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=3162452649E0564EB2847C5A23F83542/Name/@EntryValue">UnitTests</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=3162452649E0564EB2847C5A23F83542/ProjectGuid/@EntryValue">4059B2AE076984488BC8D18F08FDA7E1</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=3162452649E0564EB2847C5A23F83542/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=EF2B8F6621121247BB29B7D076FDAEC5/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=EF2B8F6621121247BB29B7D076FDAEC5/Name/@EntryValue">ResourceMonitor</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=EF2B8F6621121247BB29B7D076FDAEC5/ProjectGuid/@EntryValue">B8D7D5C1E87A8B45B4F7647E569A9F25</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=EF2B8F6621121247BB29B7D076FDAEC5/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>

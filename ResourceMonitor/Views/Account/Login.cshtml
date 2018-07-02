@@ -1,0 +1,13 @@
+﻿@model ResourceMonitor.Models.LoginModel
+
+@{
+    ViewBag.Title = "Log In";
+}
+
+<h1>Log In</h1>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+    @Html.EditorForModel()
+    <p><input type="submit" value="Log In" /></p>
+}

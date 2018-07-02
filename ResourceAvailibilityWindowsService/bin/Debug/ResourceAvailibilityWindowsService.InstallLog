@@ -1,0 +1,29 @@
+﻿Выполняется установка сборки 'C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.InstallLog
+   assemblypath = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe
+Устанавливается служба ResourceAvailibility...
+Создается исходный EventLog ResourceAvailibility в журнале Application...
+Выполняется откат для сборки 'C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.InstallLog
+   assemblypath = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe
+Восстанавливается исходное состояние журнала событий для источника ResourceAvailibility.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.InstallLog
+   assemblypath = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe
+Устанавливается служба ResourceAvailibility...
+Служба ResourceAvailibility успешно установлена.
+Создается исходный EventLog ResourceAvailibility в журнале Application...
+Выполняется фиксация сборки 'C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.InstallLog
+   assemblypath = C:\Users\ar.shamsutdinov\Documents\Visual Studio 2017\Projects\ResourceMonitor\ResourceAvailibilityWindowsService\bin\Debug\ResourceAvailibilityWindowsService.exe

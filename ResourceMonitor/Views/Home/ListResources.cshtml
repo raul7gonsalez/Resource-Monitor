@@ -1,0 +1,57 @@
+﻿@model IReadOnlyList<ResourceMonitor.Entities.Resource>
+
+@{
+    ViewBag.Title = "Resource monitor";
+}
+
+<h2>Resource monitor</h2>
+
+<style type='text/css'>
+    th {
+        width: 200px;
+        text-align: center;
+    }
+    td {
+        width: 200px;
+        text-align: center;
+    }
+    table {
+        border: 1px;
+    }
+</style>
+
+<table>
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            URL
+        </th>
+        <th>
+            StatusCode
+        </th>
+        <th>
+            Availability
+        </th>
+    </tr>
+
+    @foreach (var resource in Model)
+    {
+        <tr>
+            <td>
+                @resource.Name
+            </td>
+            <td>
+                @resource.HostAddress
+            </td>
+            <td>
+                @resource.StatusCode
+            </td>
+            <td>
+                @resource.Availability
+            </td>
+
+        </tr>
+    }
+</table>
